@@ -1,4 +1,4 @@
-<h1 align="center">Akash Jatua</h1>
+<h1 align="center">Hi, I'm Akash Jatua</h1>
 
 <h3 align="center">Software Architect · AI Systems Engineer & Automation Specialist · Founder of <a href="https://nicvista.com">NicVista</a></h3>
 
