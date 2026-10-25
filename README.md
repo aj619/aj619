@@ -17,7 +17,7 @@
 | LeetCode | [leetcode.com/u/qXsycyL2FL](https://leetcode.com/u/qXsycyL2FL/) |
 | NicVista | [nicvista.com](https://nicvista.com) |
 
-You can connect with me on linkedin for professional work.
+👉 Connect with me on [Linkedin](https://www.linkedin.com/in/akash-jatua-75021bb8) for professional work.
 ---
 
 ## About me
