@@ -34,10 +34,9 @@ I've worked on most sides of building software: backend engineer, lead developer
 ## How I work
 
 - **Own it end to end.** I'm highly effective when I can take a problem from a fuzzy brief to production, including architecture, code, deployment and the client conversation.
-- **Architecture should earn its place.** Microservices, queues and agents are tools, not goals. I pick the simplest design that will survive real traffic and a growing team.
-- **Ship in small, demoable steps.** Healthy release cycles beat big-bang launches. I demo early and often.
-- **Make AI boring and reliable.** Guardrails, evals, tracing and a sensible token budget come with every LLM system I build.
-- **Teach as I go.** I mentor engineers, review code carefully, and leave documentation behind so the team doesn't need me afterwards.
+- **Architecture should earn its place.** Microservices, queues and agents are tools that I pick shape and blend which survives real traffic and a growing team.
+- **Ship in small, focused on a Goal.** I build measurable and short sprints and proceed sequentially in cycles to deliver long term persistant quality and sustainable outcomes.
+- **Make AI boring and reliable.** I evaluate the outcome expectations, grade LLMs by capability & cost, then build the Agentic system with guardrails, evals, tracing, and observability. This gives reliable and predictable systems.
 
 ---
 
@@ -55,7 +54,7 @@ I owned the product for three years: release cycles, stack decisions, client int
 ### 📇 Chirply · *Lead Full-Stack Developer* · 2019 · [chirply.io](https://chirply.io)
 I led full-stack development of Chirply, a complete CRM and calling platform for agencies and small businesses, and **helped scale it to $10M in revenue, with 50M events triggered in 2019, 500,000 concurrent users at peak and 100% uptime**.
 
-- **IVR and browser dialer:** inbound call routing and in-browser calling, built on Twilio and WebSockets
+- **IVR and browser dialer:** inbound call routing and in-browser calling, built on Twilio SDK and WebSockets
 - **Campaign engine:** email, SMS and call campaigns, with scheduling and per-contact tracking
 - **Payments:** Stripe integration for billing and collections
 - **Scaling:** event-driven orchestration that later moved onto AWS Step Functions
