@@ -12,7 +12,7 @@
 |---|---|
 | LinkedIn | [linkedin.com/in/akash-jatua-75021bb8](https://www.linkedin.com/in/akash-jatua-75021bb8/) |
 | X | [x.com/AkashJatua](https://x.com/AkashJatua) |
-| Upwork | [upwork.com/freelancers/YOUR_UPWORK_ID](https://www.upwork.com/freelancers/~01711b776dc640966a) |
+| Upwork | [upwork.com/freelancers/~01711b776dc640966a](https://www.upwork.com/freelancers/~01711b776dc640966a) |
 | CodeChef | [codechef.com/users/aj619](https://www.codechef.com/users/aj619) |
 | LeetCode | [leetcode.com/u/qXsycyL2FL](https://leetcode.com/u/qXsycyL2FL/) |
 | NicVista | [nicvista.com](https://nicvista.com) |
