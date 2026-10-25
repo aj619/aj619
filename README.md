@@ -96,6 +96,7 @@ A payment and invoicing platform. Companies onboard, design invoice templates, r
 | 2021 - 2022 | Associate - Projects (Senior Full-Stack) | Cognizant |
 | 2016 - 2021 | Software Engineer → Lead Developer | Tier5 Technology Solutions |
 
+
 🎓 Bachelor's in Computer Science, West Bengal University of Technology · 🗣️ Bengali, English, German (learning)
 
 ---
